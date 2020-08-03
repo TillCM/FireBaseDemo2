@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseExample</string>
+    <string name= "emailHint"> Email </string>
+    <string name ="passwordHint">Password</string>
+    <string name="register">Register</string>
+    <string name="logIN">Log In </string>
+    <string name ="btnPush">Push</string>
+    <string name ="btnPull">Pull</string>
+    <string name="product">Product Name </string>
+    <string name ="productQnt">Product Qty</string>
+</resources>

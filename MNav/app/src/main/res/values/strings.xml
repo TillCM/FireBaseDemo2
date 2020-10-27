@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MNav</string>
+    <string name ="MAPBOX_ACCESS_TOKEN">pk.eyJ1IjoidGlsbHN0ZXJ6YSIsImEiOiJja2ViZjFycjYwNWZsMnRueDBzOWwwdnNlIn0.oOx_7LsVzPiZihNNOe2CBQ</string>
+    <string name="access_token" translatable="true">pk.eyJ1IjoidGlsbHN0ZXJ6YSIsImEiOiJja2ViZjFycjYwNWZsMnRueDBzOWwwdnNlIn0.oOx_7LsVzPiZihNNOe2CBQ</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+</resources>

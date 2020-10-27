@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243591800520",
+    "firebase_url": "https://testpoeapp.firebaseio.com",
+    "project_id": "testpoeapp",
+    "storage_bucket": "testpoeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243591800520:android:f988a30f01f36bb48927fd",
+        "android_client_info": {
+          "package_name": "com.tillster.testpoeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243591800520-q1r2e44ohh9plcjclfc09di2f7vdfoqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_NgrKKctczSXQCs1PiH4yU6r_nPexfVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243591800520-q1r2e44ohh9plcjclfc09di2f7vdfoqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

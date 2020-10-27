@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Products">
+
+    <EditText
+        android:id="@+id/txt_orderID"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:hint="Order ID"/>
+
+    <EditText
+        android:id="@+id/txt_customerName"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:hint="CustomerName"/>
+
+    <EditText
+        android:id="@+id/txt_product"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:hint="Product Name"/>
+
+    <EditText
+        android:id="@+id/txt_shipping"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:hint="Shipping Method"/>
+
+    <Button
+        android:id="@+id/btn_push"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Place order"/>
+
+    <Button
+        android:id="@+id/btn_push2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Water intake"/>
+
+
+
+
+
+
+
+</LinearLayout>

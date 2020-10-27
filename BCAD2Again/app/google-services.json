@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891473105980",
+    "firebase_url": "https://bcad2again.firebaseio.com",
+    "project_id": "bcad2again",
+    "storage_bucket": "bcad2again.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891473105980:android:584a30c10c4da1db389f39",
+        "android_client_info": {
+          "package_name": "com.tillster.bcad2again"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891473105980-2l8t3if5ep3sqvh248kndft26f40q2d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRKYIav_qf6R9Igj8jN_c0XDnmCC1oWcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891473105980-2l8t3if5ep3sqvh248kndft26f40q2d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

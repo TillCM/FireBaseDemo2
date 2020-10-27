@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StoreLocalPicsFragment">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardview_login"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:cardElevation="12dp"
+        app:cardCornerRadius="10dp"
+        app:cardUseCompatPadding="true"
+        app:contentPadding="10dp"
+        app:cardBackgroundColor="@android:color/transparent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/et_nameLocalImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/mandali"
+                android:textColor="@color/white"
+                android:textSize="20dp"/>
+
+
+            <ImageView
+                android:id="@+id/img_localImagePane"
+                android:layout_width="wrap_content"
+                android:layout_height="231dp"
+                android:src="@drawable/photo" />
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/img_saveLocalPic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/small_save"
+            android:layout_marginStart="90dp"/>
+
+        <ImageView
+            android:id="@+id/img_chooseLocalPic"
+            android:layout_width="77dp"
+            android:layout_height="81dp"
+            android:layout_marginStart="140dp"
+            android:src="@drawable/small_polaroid" />
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

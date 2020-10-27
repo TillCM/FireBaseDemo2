@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "644887872613",
+    "firebase_url": "https://fir-example-c69f0.firebaseio.com",
+    "project_id": "fir-example-c69f0",
+    "storage_bucket": "fir-example-c69f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644887872613:android:dcd0f2e9d125b1e53db28c",
+        "android_client_info": {
+          "package_name": "com.tillster.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644887872613-o795i8bduen42ljr4vv38vdhard0vfbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhF-kaYWauATLDdNG1RwaNPdkLIqmBQ8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644887872613-o795i8bduen42ljr4vv38vdhard0vfbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

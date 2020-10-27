@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "996003770534",
+    "firebase_url": "https://fakestagramvideo.firebaseio.com",
+    "project_id": "fakestagramvideo",
+    "storage_bucket": "fakestagramvideo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996003770534:android:e24f5097bebb5010f48467",
+        "android_client_info": {
+          "package_name": "com.tillster.fakestagramvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996003770534-r7etm49sujfj51r52r2e4hbqj56p301b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tillster.fakestagramvideo",
+            "certificate_hash": "3645e98922987159cd478371b89d9e1461bd139d"
+          }
+        },
+        {
+          "client_id": "996003770534-vhulgk2m6tnamqaimg07kss10veptbhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmcIdgDDPmQwS_1GaGQ1g-KwNlFwYWyvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996003770534-vhulgk2m6tnamqaimg07kss10veptbhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "218192683189",
+    "firebase_url": "https://fakestagram-22646.firebaseio.com",
+    "project_id": "fakestagram-22646",
+    "storage_bucket": "fakestagram-22646.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218192683189:android:b37f00f4d7f2007b0cdefc",
+        "android_client_info": {
+          "package_name": "com.tillster.fakestagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218192683189-jlft14scbkol6igvpevbb6i4uq5fk583.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tillster.fakestagram",
+            "certificate_hash": "3645e98922987159cd478371b89d9e1461bd139d"
+          }
+        },
+        {
+          "client_id": "218192683189-jv7dsumgct9rra4p91u73o0mmlbhc3hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz7AOUdLF1QqZmQ_IepTwGxm30pY4QA-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218192683189-jv7dsumgct9rra4p91u73o0mmlbhc3hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

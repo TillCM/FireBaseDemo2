@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name ="windowActionBar">false</item>
+
+    </style>
+
+    <style name ="MyCustomTextViewText" parent="TextAppearance.Design.Tab">
+        <item name ="android:textSize">20sp</item>
+        <item name = "android:fontFamily">@font/cairo</item>
+        <item name ="android:textColor">@color/white</item>
+    </style>
+
+    <style name ="MyCustomTabText" parent="TextAppearance.Design.Tab">
+        <item name ="android:textSize">16sp</item>
+        <item name = "android:fontFamily">@font/cairo</item>
+        <item name ="android:textColor">@color/white</item>
+    </style>
+
+    <style name ="MyCustToolbarText" parent="TextAppearance.Design.Tab">
+        <item name ="android:textSize">20sp</item>
+        <item name ="android:gravity">center</item>
+        <item name = "android:fontFamily">@font/cairo</item>
+        <item name ="android:textColor">@color/white</item>
+        <item name  ="android:textStyle">bold</item>
+    </style>
+
+    <style name ="MyCustomWeatherText" parent="TextAppearance.Design.Tab">
+        <item name ="android:textSize">30sp</item>
+        <item name = "android:fontFamily">@font/cairo</item>
+        <item name ="android:textColor">@color/white</item>
+    </style>
+
+
+
+
+</resources>
